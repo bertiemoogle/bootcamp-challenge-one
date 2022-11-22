@@ -1,6 +1,6 @@
 # Code Refactor
 
-![alt text](assets/images/screenshot.png)
+![screenshot.jpg]/bertiemoogle/bootcamp-challenge-one/blob/main/assets/images/screenshot.jpg?raw=true"
 
 ## The Aim of the Exercise
 
