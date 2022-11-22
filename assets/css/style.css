@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header containing company logo and three navigation links*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,8 @@ body {
     margin-left: 25px;
 }
 
+/*h2 and h3 tag styles*/
+
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -60,6 +64,8 @@ p {
     font-size: 16px;
 }
 
+/*Main website image*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -68,6 +74,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Styling for the main part of the index page, describing the company's main functions*/
 
 .float-left {
     float: left;
@@ -109,6 +117,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/*Styling for the index page's footer*/
 
 footer {
     padding: 30px;
