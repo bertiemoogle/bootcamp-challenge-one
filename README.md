@@ -1,4 +1,4 @@
-# Code Refactor
+# Code Refactoring
 
 ![screenshot](assets/images/screenshot.jpg)
 
